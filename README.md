@@ -13,7 +13,7 @@ https://www.kaggle.com/ntnu-testimon/paysim1
 
 Conclusion
 
-The final result is evaluated in terms of gains in metrics, attributed to features and tuning. The RandomForestClassifier() model was selected for tuning among 10 in a baseline test. Improvements are shown for two sets of features and parameter tuning on the best model. Future work could expand on parameter exploration and combining models. 
+The final result is evaluated in terms of gains in metrics, attributed to features and tuning. The RandomForestClassifier() model was selected for tuning among 10 in a baseline test. Confusion matrix and metrics are compared, seeking a balanced set of results. Future work could expand on parameter exploration and combining models. 
 
 
 
